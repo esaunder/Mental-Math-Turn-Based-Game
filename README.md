@@ -38,6 +38,7 @@ To successfully run this project, please follow these steps to set up your envir
 3. Ensure your IDE is configured to use the above version of Java SE and JDK
 
 The program can be run from the command line in the directory with all the assets with the commands:
+
 javac mentalMathGame.java Music.java
 java mentalMathGame
 
