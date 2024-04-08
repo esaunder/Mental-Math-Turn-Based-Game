@@ -1,5 +1,5 @@
 # Mental-Math-Game
-A turn-based game where you need to answer math questions to attack the enemy made using Java. ([Demo Video](https://youtu.be/xOqi7ggbNU8))
+A turn-based game where you need to answer math questions to attack the enemy made using Java. ([Demo Video](https://youtu.be/zSeruhJnfVg))
 
 By [Ethan Saunders](https://github.com/esaundere) 
 Course: COMP 2800   
@@ -24,7 +24,7 @@ This game was made using Java. It utilizes basic object-oriented programming and
 
 ## Gameplay
 
-Check out the demo video for this project [here](https://youtu.be/xOqi7ggbNU8)!
+Check out the demo video for this project [here](https://youtu.be/zSeruhJnfVg)!
 
 ![Mental Math Game Battle](Assets/battle.png)  
 ![Mental Math Game Attack](Assets/attack.png)
