@@ -24,7 +24,7 @@ This game was made using Java. It utilizes basic object-oriented programming and
 
 ## Gameplay
 
-Check out the demo video for this project [here](https://youtu.be/xOqi7ggbNU8)!
+Check out the demo video for this project [here](https://youtu.be/zSeruhJnfVg)!
 
 ![Mental Math Game Battle](Assets/battle.png)  
 ![Mental Math Game Attack](Assets/attack.png)
