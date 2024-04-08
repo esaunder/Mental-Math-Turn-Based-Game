@@ -40,6 +40,7 @@ To successfully run this project, please follow these steps to set up your envir
 The program can be run from the command line in the directory with all the assets with the commands:
 
 javac mentalMathGame.java Music.java
+
 java mentalMathGame
 
 It can also be compiled directly by your IDE 
